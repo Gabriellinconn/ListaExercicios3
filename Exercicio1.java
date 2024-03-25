@@ -9,7 +9,7 @@ public class Exercicio1 {
             aluno1.nota[i]= Prompt.lerDecimal("Digite nota ("+(i+1)+")");
             soma+=aluno1.nota[i];
         }  
-        Prompt.imprimir("Média aritmética: "+(soma/3));
+        Prompt.imprimir(aluno1.nome+": Média aritmética: "+(soma/3));
 
     }   
     
