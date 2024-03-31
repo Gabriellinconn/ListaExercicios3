@@ -30,6 +30,56 @@ public static void main (String[] args) {
             Exercicio4.executar();
             
             break;
+
+            case 5:
+            Exercicio5.executar();
+            
+            break;
+
+            case 6:
+            Exercicio6.executar();
+            
+            break;
+
+            case 7:
+            Exercicio7.executar();
+            
+            break;
+
+            case 8:
+            Exercicio8.executar();
+            
+            break;
+
+            case 9:
+            Exercicio9.executar();
+            
+            break;
+
+            case 10:
+            Exercicio10.executar();
+            
+            break;
+
+            case 11:
+            Exercicio11.executar();
+            
+            break;
+
+            case 12:
+            Exercicio12.executar();
+            
+            break;
+
+            case 13:
+            Exercicio13.executar();
+            
+            break;
+
+            case 14:
+            Exercicio14.executar();
+            
+            break;
   
 
         default:
